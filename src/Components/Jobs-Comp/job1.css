@@ -1,0 +1,25 @@
+
+.find-job{
+    height: 30vh;
+    background-color: azure;
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-direction: column;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.explore{
+    font-size: 20px;
+}
+.job-search{
+    border: 1px solid black;
+    width: 163.5vh;
+    color: black;
+    border-radius: 5px;
+    margin: 4rem 9rem;
+    height: 0px;
+}
+.job-search::placeholder{
+    color: black;
+}

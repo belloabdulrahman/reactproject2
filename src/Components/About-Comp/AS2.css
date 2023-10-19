@@ -1,0 +1,45 @@
+.as2-container{
+    height: 210vh;
+    background-color: azure;
+
+}
+.inner-as2{
+    margin-left: 9rem;
+    margin-right: 9rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.vision{
+    margin-top: 5vh;
+}
+.abt-image{
+    border-radius: 10px;
+    margin: 10vh 0vh;
+}
+.sevices-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 4vh;
+}
+.roles1{
+    height: 35vh;
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.roles{
+    height: 22vh;
+    width: 52vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap: 5px;
+    box-shadow: 1px 1px 1px 1px #888888;
+    padding: 10px;
+}
